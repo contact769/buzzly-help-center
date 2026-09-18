@@ -1,0 +1,31 @@
+name: Documentation feedback · Retour sur la documentation
+description: Something is wrong, missing or unclear in the guide. · Une erreur, un manque ou un passage peu clair dans le guide.
+labels: ["documentation"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page · Page
+      description: Link or file name (e.g. `en/managing-subscribers.md` or https://mybuzzly.com/docs/managing-subscribers). · Lien ou nom du fichier.
+      placeholder: en/managing-subscribers.md
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong or unclear? · Qu'est-ce qui ne va pas ?
+      description: Quote the sentence if you can. · Citez la phrase si possible.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to read instead? · Qu'attendiez-vous à la place ?
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language · Langue
+      options:
+        - Français
+        - English
+        - Both · Les deux
