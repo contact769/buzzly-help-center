@@ -64,7 +64,7 @@ Votre **offre Buzzly** est ce que vous payez pour utiliser Buzzly. Les **abonnem
 Non. Vous choisissez un thème et le personnalisez visuellement. Voir **[Votre site web](./website-builder.md)**.
 
 **Puis-je modifier mon site sans qu'il soit en ligne ?**
-Oui — votre site reste privé tant que vous ne cliquez pas sur **Publier**. Voir **[Votre site web](./website-builder.md)**.
+Oui — vos modifications sont enregistrées comme brouillon privé, et votre site en ligne ne change que lorsque vous cliquez sur **Publier**. Voir **[Votre site web](./website-builder.md#enregistrer-et-publier)**.
 
 **Comment grandir plus vite ?**
 Activez le **[Parrainage](./referrals.md)** pour que vos lecteurs gagnent des récompenses en invitant leurs amis.

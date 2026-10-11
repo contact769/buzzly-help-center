@@ -65,7 +65,7 @@ Chaque étape a sa propre page ci-dessus. Vous n'êtes pas obligé de les suivre
 ## 💡 Quelques points à connaître
 
 - **Un compte = une newsletter = un site web.** Buzzly reste simple. Tout ce que vous créez vit sous votre propre adresse, comme `votrenom.mybuzzly.com`.
-- **L'essentiel s'enregistre automatiquement**, mais certains écrans (comme votre site web) demandent de cliquer sur **Enregistrer** et **Publier** pour que rien ne parte par erreur.
+- **L'essentiel s'enregistre automatiquement.** Votre site s'enregistre comme brouillon privé et n'est mis en ligne que lorsque vous cliquez sur **Publier** : rien ne devient public par erreur.
 - **Vous pouvez prévisualiser avant d'envoyer.** Vous n'enverrez jamais à vos lecteurs quelque chose que vous n'avez pas vu d'abord.
 - **Disponible en français et en anglais.** Changez de langue à tout moment grâce au bouton de langue dans l'en-tête.
 

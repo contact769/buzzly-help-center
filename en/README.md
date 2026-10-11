@@ -65,7 +65,7 @@ Each step has its own page above. You don't have to do them in order — jump to
 ## 💡 A few things to know first
 
 - **One account = one newsletter = one website.** Buzzly keeps things simple. Everything you build lives under your own address, like `yourname.mybuzzly.com`.
-- **Everything auto-saves where it matters**, but some screens (like your website) ask you to click **Save** and **Publish** so nothing goes live by accident.
+- **Everything auto-saves where it matters.** Your website saves as a private draft and only goes live when you click **Publish**, so nothing goes public by accident.
 - **You can preview before you send.** You'll never email your readers something you haven't seen first.
 - **Available in English and French.** Switch languages anytime using the language button in the header.
 

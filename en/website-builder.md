@@ -12,7 +12,7 @@ Buzzly gives every newsletter a **public website** — a home on the internet wh
 
 - **One newsletter = one website.** Everything lives at your own address, like `yourname.mybuzzly.com` (your [prefix](./glossary.md) from sign-up).
 - You **choose a theme** (a ready-made design) and customize it — colors, fonts, images, and content. You're never staring at a blank page.
-- Your site is **private until you publish it**. Edit as much as you want; nothing goes live until you say so.
+- **Your edits are saved as a private draft.** Nothing reaches your live website until you click **Publish**.
 
 To open it, go to **Website** in your dashboard.
 
@@ -30,27 +30,41 @@ When you start, you pick one of three styles depending on your goal:
 
 ---
 
-## The setup walkthrough (8 steps)
+## Getting started
 
-The first time you build your site, Buzzly guides you through a short, friendly walkthrough. You'll see a live preview update as you go:
+1. **Pick your site type**, then **choose a theme** from the catalog. You can browse designs freely: looking at a theme changes nothing.
+2. Each card says how you will edit it. **Works with Simple** designs open in the simple customizer; **Requires Advanced editor** designs open in the full builder.
+3. For a **Works with Simple** design, **Use this theme** creates your website as a **private draft** with the newsletter name, logo, author name and description you already gave Buzzly, then opens the simple customizer. Nothing is published.
+4. Personalize it, preview it, then publish when you're ready. Customization is optional: you can publish the theme as it is.
 
-1. **Purpose** — Pick your site type (Link in Bio, Simple Blog, or News Site).
-2. **Theme** — Choose a design from the catalog (filtered to your site type).
-3. **Images** — Upload the pictures you want to feature.
-4. **Colors** — Set your color palette (main, primary, secondary, accent). Watch it preview instantly.
-5. **Typography** — Choose your fonts for headings, body text, and buttons.
-6. **Socials** — Add your social links (Facebook, Instagram, X/Twitter, LinkedIn, YouTube, TikTok, Threads, Discord, Bluesky, RSS).
-7. **Links** — *(Link in Bio only)* Add the buttons/links you want to show.
-8. **Review** — See the final preview, then go live.
+Other designs open the full builder's setup steps, which end by asking whether to **Publish now** or **Explore the editor, publish later**.
+
+The simple customizer is being introduced gradually. If you don't see it yet, your website opens in the full builder, which works exactly as before.
 
 ---
 
 ## Editing your site
 
-After setup, you get a **visual editor**. You can:
+Both editors change the **same website**. Switching between them keeps everything you made.
+
+### The simple customizer
+
+For newsletters and blogs using a design marked **Works with Simple** (currently **Quiet Hours**):
+
+- **Brand & appearance** — site name, logo, page background, text and button colors, color palettes and fonts.
+- **Homepage** — headline, description, author name and photo, cover image, section background, and which homepage sections show and in what order.
+- **Navigation & links** — menu and footer links, social links and the name in your footer.
+
+Changes appear in the preview straight away. On a phone, switch between **Edit** and **Preview** at the bottom of the screen.
+
+Need more? **Advanced editor** saves your changes, then opens the full builder on the same page. Buzzly remembers your choice the next time you edit your website. Parts you customized in the full builder stay intact; the simple customizer just shows fewer controls for them. If your website uses a **dark color mode**, edit its colors in the full builder.
+
+### The full builder (Advanced editor)
+
+The full builder lets you:
 
 - **Edit any section** directly.
-- **Add new sections** from a catalog, and **drag to reorder** them.
+- **Add new sections** from a catalog, and **reorder** them.
 - Manage **global settings** shared across every page — your header, footer, colors, and fonts.
 - **Add, remove, or duplicate pages**, and set **search-engine (SEO) details** per page.
 
@@ -69,11 +83,16 @@ Some sections are **dynamic**, meaning they update themselves — for example, t
 
 ## Saving and publishing
 
-- Click **Save** to store your changes.
-- Click **Publish** to make your site (or your latest edits) live at `yourname.mybuzzly.com`.
-- You can **unpublish** anytime to take it offline.
+- **Saving is automatic.** Your changes are saved as a **draft on Buzzly's servers**, so you can continue on another device. The editor shows whether the draft is saving, saved, or failed to save (with **Retry**).
+- **Saved is not published.** In the simple customizer, a site that was never published shows **Saved draft · Private until you publish**; once your site is live, edits show **Unpublished changes · Your live website has not changed** until you publish them.
+- **Publish** puts your website online for the first time; afterwards, **Publish changes** → **Update live site** updates the same website at the same address.
+- **Preview** shows your design with the posts already published on your website. Sample posts used to fill an empty design never go live.
+- **Your posts update the site on their own.** Publishing a post to your website adds it to your site's post lists; you don't need to publish the design again. Email-only posts, drafts and scheduled posts never appear.
+- **Switching theme or restoring an older version** changes only your draft (a backup is kept) until you publish.
+- If saving fails or you close the page with unsaved edits, your changes are kept on this device: reopen the editor and choose **Recover edits** (simple customizer) or **Restore changes** (full builder).
+- You can **unpublish** anytime to take your site offline.
 
-> Because your website is a place readers actually visit, Buzzly asks you to **Save** and **Publish** deliberately — that way nothing goes public before you're ready.
+> Because your website is a place readers actually visit, Buzzly asks you to **publish** deliberately — that way nothing goes public before you're ready.
 
 ---
 

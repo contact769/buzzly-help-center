@@ -64,7 +64,7 @@ Your **Buzzly plan** is what you pay to use Buzzly. **Reader subscriptions** are
 No. You pick a theme and customize it visually. See **[Your Website](./website-builder.md)**.
 
 **Can I edit my website without it going live?**
-Yes — your site stays private until you click **Publish**. See **[Your Website](./website-builder.md#saving-and-publishing)**.
+Yes — your edits are saved as a private draft, and your live site changes only when you click **Publish**. See **[Your Website](./website-builder.md#saving-and-publishing)**.
 
 **How can I grow faster?**
 Turn on **[Referrals](./referrals.md)** so readers earn rewards for bringing friends.
