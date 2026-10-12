@@ -33,8 +33,8 @@ When you start, you pick one of three styles depending on your goal:
 ## Getting started
 
 1. **Pick your site type**, then **choose a theme** from the catalog. You can browse designs freely: looking at a theme changes nothing.
-2. Each card says how you will edit it. **Works with Simple** designs open in the simple customizer; **Requires Advanced editor** designs open in the full builder.
-3. For a **Works with Simple** design, **Use this theme** creates your website as a **private draft** with the newsletter name, logo, author name and description you already gave Buzzly, then opens the simple customizer. Nothing is published.
+2. The theme list says how you will edit each design. Select one to inspect its full preview, then choose **Use this theme** when you’re ready (**Use theme** on a phone). **Works with Simple** designs open in the simple customizer; **Requires Advanced editor** designs open in the full builder.
+3. For a **Works with Simple** design, **Use this theme** opens an address review; **Create draft** creates your website as a **private draft** with the newsletter name, logo, author name and description you already gave Buzzly, then opens the simple customizer. Nothing is published.
 4. Personalize it, preview it, then publish when you're ready. Customization is optional: you can publish the theme as it is.
 
 Other designs open the full builder's setup steps, which end by asking whether to **Publish now** or **Explore the editor, publish later**.
@@ -55,7 +55,9 @@ For newsletters and blogs using a design marked **Works with Simple** (currently
 - **Homepage** — headline, description, author name and photo, cover image, section background, and which homepage sections show and in what order.
 - **Navigation & links** — menu and footer links, social links and the name in your footer.
 
-Changes appear in the preview straight away. On a phone, switch between **Edit** and **Preview** at the bottom of the screen.
+Changes appear in the website preview straight away. On desktop, **Desktop** and **Phone** change only the preview size; they do not create separate designs. **Preview** opens a focused view; **Edit** returns to the form. On a phone, switch between **Edit** and **Preview** at the bottom of the screen. The form retains your place when you return.
+
+The short tabs are **Brand**, **Homepage** and **Links**. On desktop, **Browse themes** and **Advanced editor** sit below the settings. On a phone, find them in **Website options**, beside **Publish**. Theme browsing changes nothing until you continue through the replacement confirmation.
 
 Need more? **Advanced editor** saves your changes, then opens the full builder on the same page. Buzzly remembers your choice the next time you edit your website. Parts you customized in the full builder stay intact; the simple customizer just shows fewer controls for them. If your website uses a **dark color mode**, edit its colors in the full builder.
 
@@ -84,8 +86,8 @@ Some sections are **dynamic**, meaning they update themselves — for example, t
 ## Saving and publishing
 
 - **Saving is automatic.** Your changes are saved as a **draft on Buzzly's servers**, so you can continue on another device. The editor shows whether the draft is saving, saved, or failed to save (with **Retry**).
-- **Saved is not published.** In the simple customizer, a site that was never published shows **Saved draft · Private until you publish**; once your site is live, edits show **Unpublished changes · Your live website has not changed** until you publish them.
-- **Publish** puts your website online for the first time; afterwards, **Publish changes** → **Update live site** updates the same website at the same address.
+- **Saved is not published.** In the simple customizer, a site that was never published shows **Saved draft** with **Private until you publish**; once your site is live, saved edits show **Unpublished changes** with **Saved privately** until you publish them. **Published** means your latest changes are live.
+- **Publish** → **Publish site** puts your website online for the first time; afterwards, **Publish changes** → **Update live site** updates the same website at the same address.
 - **Preview** shows your design with the posts already published on your website. Sample posts used to fill an empty design never go live.
 - **Your posts update the site on their own.** Publishing a post to your website adds it to your site's post lists; you don't need to publish the design again. Email-only posts, drafts and scheduled posts never appear.
 - **Switching theme or restoring an older version** changes only your draft (a backup is kept) until you publish.

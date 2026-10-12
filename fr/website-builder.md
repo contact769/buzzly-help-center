@@ -33,8 +33,8 @@ Au démarrage, vous choisissez l'un des trois styles selon votre objectif :
 ## Bien démarrer
 
 1. **Choisissez votre type de site**, puis **un thème** dans le catalogue. Vous pouvez parcourir les designs librement : regarder un thème ne change rien.
-2. Chaque carte indique comment vous le modifierez. Les designs **Compatible avec Simple** s'ouvrent dans la personnalisation Simple ; ceux qui **Nécessite l’éditeur avancé** s'ouvrent dans l'éditeur complet.
-3. Pour un design **Compatible avec Simple**, **Utiliser ce thème** crée votre site comme **brouillon privé** avec le nom, le logo, le nom d'auteur et la description de newsletter que vous avez déjà donnés à Buzzly, puis ouvre la personnalisation Simple. Rien n'est publié.
+2. La liste des thèmes indique comment modifier chaque design. Sélectionnez-en un pour voir son aperçu complet, puis choisissez **Utiliser ce thème** quand vous êtes prêt (**Choisir** sur téléphone). Les designs **Compatible avec Simple** s'ouvrent dans la personnalisation Simple ; ceux qui **Nécessite l’éditeur avancé** s'ouvrent dans l'éditeur complet.
+3. Pour un design **Compatible avec Simple**, **Utiliser ce thème** ouvre la vérification de l’adresse ; **Créer le brouillon** crée votre site comme **brouillon privé** avec le nom, le logo, le nom d'auteur et la description de newsletter que vous avez déjà donnés à Buzzly, puis ouvre la personnalisation Simple. Rien n'est publié.
 4. Personnalisez-le, prévisualisez-le, puis publiez quand vous êtes prêt. La personnalisation est facultative : vous pouvez publier le thème tel quel.
 
 Les autres designs ouvrent les étapes de configuration de l'éditeur complet, qui se terminent par le choix **Publier maintenant** ou **Explorer l'éditeur, publier plus tard**.
@@ -55,7 +55,9 @@ Pour les newsletters et blogs dont le design est **Compatible avec Simple** (act
 - **Page d’accueil** — titre, description, nom et photo de l'auteur, image de couverture, fond de section, et quelles sections de l'accueil s'affichent et dans quel ordre.
 - **Navigation et liens** — liens du menu et du pied de page, réseaux sociaux et nom affiché dans le pied de page.
 
-Les modifications apparaissent tout de suite dans l'aperçu. Sur téléphone, passez de **Modifier** à **Aperçu** en bas de l'écran.
+Les modifications apparaissent tout de suite dans l’aperçu du site. Sur ordinateur, **Ordinateur** et **Téléphone** changent uniquement la taille de l’aperçu : ils ne créent pas de designs séparés. **Aperçu** ouvre une vue dédiée ; **Modifier** vous ramène au formulaire. Sur téléphone, passez de **Modifier** à **Aperçu** en bas de l’écran. Le formulaire conserve votre position lorsque vous revenez.
+
+Les onglets courts sont **Identité**, **Accueil** et **Liens**. Sur ordinateur, **Parcourir les thèmes** et **Éditeur avancé** se trouvent sous les réglages. Sur téléphone, ouvrez **Options du site**, à côté de **Publier**. Parcourir les thèmes ne change rien tant que vous ne confirmez pas leur remplacement.
 
 Besoin de plus ? **Éditeur avancé** enregistre vos modifications puis ouvre l'éditeur complet sur la même page. Buzzly retient votre choix la prochaine fois que vous modifiez votre site. Les parties personnalisées dans l'éditeur complet restent intactes ; la personnalisation Simple affiche simplement moins de réglages pour elles. Si votre site utilise un **mode de couleur sombre**, modifiez ses couleurs dans l'éditeur complet.
 
@@ -84,8 +86,8 @@ Certaines sections sont **dynamiques**, c'est-à-dire qu'elles se mettent à jou
 ## Enregistrer et publier
 
 - **L'enregistrement est automatique.** Vos modifications sont enregistrées comme **brouillon sur les serveurs de Buzzly** : vous pouvez continuer sur un autre appareil. L'éditeur indique si le brouillon est en cours d'enregistrement, enregistré ou si l'enregistrement a échoué (avec **Réessayer**).
-- **Enregistré ne veut pas dire publié.** Dans la personnalisation Simple, un site jamais publié affiche **Brouillon enregistré · Privé jusqu’à la publication** ; une fois votre site en ligne, vos modifications affichent **Modifications non publiées · Votre site en ligne n’a pas changé.** jusqu'à leur publication.
-- **Publier** met votre site en ligne pour la première fois ; ensuite, **Publier les modifications** → **Mettre à jour le site en ligne** met à jour le même site à la même adresse.
+- **Enregistré ne veut pas dire publié.** Dans la personnalisation Simple, un site jamais publié affiche **Brouillon enregistré** avec **Privé avant publication** ; une fois votre site en ligne, les modifications enregistrées affichent **Modifications non publiées** avec **Enregistrées en privé** jusqu’à leur publication. **Publié** signifie que vos dernières modifications sont en ligne.
+- **Publier** → **Publier le site** met votre site en ligne pour la première fois ; ensuite, **Publier les modifications** → **Mettre à jour le site en ligne** met à jour le même site à la même adresse.
 - **Aperçu** montre votre design avec les posts déjà publiés sur votre site. Les posts d'exemple qui remplissent un design vide ne sont jamais mis en ligne.
 - **Vos posts mettent le site à jour tout seuls.** Publier un post sur votre site l'ajoute aux listes de posts ; inutile de republier le design. Les posts réservés aux e-mails, les brouillons et les posts programmés n'apparaissent jamais.
 - **Changer de thème ou restaurer une ancienne version** ne modifie que votre brouillon (une sauvegarde est conservée) jusqu'à la publication.
