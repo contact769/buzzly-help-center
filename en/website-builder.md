@@ -106,6 +106,24 @@ Beyond the builder, there's a dedicated **Website Settings** area for details li
 
 **Next:** See who's visiting in **[Analytics & Statistics](./analytics.md)**, and turn visitors into readers via the signup form (**[Managing Subscribers](./managing-subscribers.md)**).
 
+## AI suggestions
+
+When available for your theme, **Personalize with AI** suggests publication copy and approved styles. **Improve this text** can rewrite, shorten, change tone or translate one supported field. It uses your saved newsletter details and brand voice. Translation does not change the site language.
+
+Review the changes, select what to keep and preview them before choosing **Apply selected changes**. Suggestions, previews and Discard do not save anything. Apply saves a private draft; **Publish** is still required to change the live site. **Undo AI changes** restores only the accepted values and protects later edits; version history is available when Undo has expired.
+
+Website and post AI share your account allowance. The panel shows remaining tokens and reset time; cancelling may still use tokens. You can keep editing manually when AI is unavailable or the allowance is exhausted. If you edit after generation, request new suggestions to preserve those edits.
+
+### Adding and styling sections with AI
+
+When section editing is enabled for your account, choose **Edit with AI** in Simple or the full builder. Select the saved page or a supported section, then describe the change. For example: “Add a newsletter signup section above the footer. Give it a thin green border, rounded corners, and a friendly heading.” If several sections match, choose the one you mean in the clarification panel.
+
+AI can propose compatible sections, supported borders, corners, spacing, backgrounds, colours and text styles. It can also update verified copy and move, hide, show or remove eligible sections. Protected feeds, required forms, legal notices, payment settings and integrations keep their existing behaviour. Copy follows your site's English or French language.
+
+Select the change groups you want and inspect the desktop, tablet or phone preview. A new section's copy and styling stay together in one group. Preview forms and links do not subscribe readers, send messages or start payments. Before applying, you can refine the selected proposal with a request such as “make that border thinner.” Refinement uses the same shared AI allowance.
+
+**Apply selected changes** saves the result privately. Reloading keeps the saved section and lets you recover its application receipt. **Undo AI changes** preserves unrelated later edits; if you changed the same section or a required neighbour, Undo refuses the conflict. Review your draft and use **Publish** separately when you want readers to see it.
+
 ---
 
 📖 **Read this page online:** [mybuzzly.com/en/docs/website-builder](https://mybuzzly.com/en/docs/website-builder)

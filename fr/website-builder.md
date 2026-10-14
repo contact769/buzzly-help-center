@@ -106,6 +106,24 @@ Au-delà de l'éditeur, un espace dédié **Réglages du site** gère des détai
 
 **À suivre :** voyez qui vous rend visite dans **[Statistiques & analyses](./analytics.md)**, et transformez les visiteurs en lecteurs via le formulaire d'inscription (**[Gérer les abonnés](./managing-subscribers.md)**).
 
+## Suggestions IA
+
+Lorsqu’il est disponible pour votre thème, **Personnaliser avec l’IA** propose des textes et des styles approuvés. **Améliorer ce texte** permet de reformuler, raccourcir, changer de ton ou traduire un champ compatible. L’IA utilise les informations enregistrées de votre newsletter et votre voix de marque. La traduction ne change pas la langue du site.
+
+Vérifiez les modifications, sélectionnez celles à conserver et consultez l’aperçu avant de choisir **Appliquer la sélection**. Les suggestions, l’aperçu et Ignorer n’enregistrent rien. Appliquer enregistre un brouillon privé ; **Publier** reste nécessaire pour modifier le site public. **Annuler les modifications IA** restaure seulement les valeurs acceptées en protégeant vos modifications ultérieures ; l’historique reste disponible lorsque cette annulation a expiré.
+
+L’IA du site et celle des posts partagent votre quota de compte. Le panneau indique les jetons restants et leur renouvellement ; une annulation peut tout de même consommer des jetons. La modification manuelle reste possible lorsque l’IA ou le quota est indisponible. Si vous modifiez le site après la génération, demandez de nouvelles suggestions pour préserver vos modifications.
+
+### Ajouter et styliser des sections avec l’IA
+
+Lorsque cette fonction est activée pour votre compte, choisissez **Modifier avec l’IA** dans Simple ou l’éditeur complet. Sélectionnez la page enregistrée ou une section compatible, puis décrivez le changement. Par exemple : « Ajoutez une section d’inscription à la newsletter au-dessus du pied de page, avec une fine bordure verte, des coins arrondis et un titre chaleureux. » Si plusieurs sections correspondent, choisissez celle que vous souhaitez dans le panneau de clarification.
+
+L’IA peut proposer des sections compatibles et modifier les bordures, les arrondis, les espacements, les arrière-plans, les couleurs et les styles de texte pris en charge. Elle peut aussi réviser les textes vérifiés et déplacer, masquer, afficher ou supprimer les sections autorisées. Les flux d’articles, les formulaires obligatoires, les mentions légales, les paiements et les intégrations conservent leur fonctionnement. Les textes suivent la langue française ou anglaise de votre site.
+
+Sélectionnez les groupes de modifications à conserver et vérifiez l’aperçu sur ordinateur, tablette ou téléphone. Le texte et le style d’une nouvelle section restent dans un même groupe. Les formulaires et les liens de cet aperçu n’inscrivent aucun lecteur, n’envoient aucun message et ne déclenchent aucun paiement. Avant d’appliquer, vous pouvez affiner la proposition sélectionnée, par exemple avec « Rendez cette bordure plus fine. » Cette demande utilise le même quota IA partagé.
+
+**Appliquer la sélection** enregistre un brouillon privé. Après rechargement, la section enregistrée et le reçu d’application restent accessibles. **Annuler les modifications IA** préserve les changements ultérieurs sans rapport ; si la même section ou un voisin nécessaire a changé, l’annulation refuse ce conflit. Vérifiez votre brouillon, puis choisissez **Publier** séparément lorsque vous souhaitez le montrer aux lecteurs.
+
 ---
 
 📖 **Lire cette page en ligne :** [mybuzzly.com/docs/website-builder](https://mybuzzly.com/docs/website-builder)
